@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夏の透明猶予",
+  "base_artist": "miolly",
+  "createdAt": "2026-02-28T06:36:06.654295Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏の透明猶予",
+      "artist": "miolly",
+      "has_synced": false,
+      "path": "select/pl_01_夏の透明猶予_miolly.txt"
+    }
+  ]
+}
